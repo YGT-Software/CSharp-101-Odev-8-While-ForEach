@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\bin\Debug\net6.0\C#101 Ödev 8 While-ForEach.exe
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\bin\Debug\net6.0\C#101 Ödev 8 While-ForEach.deps.json
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\bin\Debug\net6.0\C#101 Ödev 8 While-ForEach.runtimeconfig.json
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\bin\Debug\net6.0\C#101 Ödev 8 While-ForEach.dll
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\bin\Debug\net6.0\C#101 Ödev 8 While-ForEach.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.dll
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\refint\C#101 Ödev 8 While-ForEach.dll
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\C#101 Ödev 8 While-ForEach.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C#101 Ödev 8 While-ForEach\obj\Debug\net6.0\ref\C#101 Ödev 8 While-ForEach.dll
